@@ -6,7 +6,7 @@ Created by Shrey Joshi.
 
 ## Pages:
 
-index
-about
-help
-404
+- Index
+- About
+- Help
+- 404 page
